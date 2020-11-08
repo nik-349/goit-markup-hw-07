@@ -621,14 +621,6 @@ img {
   color: #212121;
 }
 
-.portfolio-signature-two {
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 1.875;
-  letter-spacing: 0.03em;
-  color: #757575;
-}
-
 .relative-text-portfolio {
   font-family: "roboto", sans-serif;
   font-style: normal;
@@ -637,6 +629,14 @@ img {
   line-height: 28px;
   letter-spacing: 0.03em;
   color: #ffffff;
+}
+
+.portfolio-signature-two {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.875;
+  letter-spacing: 0.03em;
+  color: #757575;
 }
 
 /*=====Layout=====*/
